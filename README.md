@@ -37,7 +37,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/S6YmC6R.gif' width='' alt='Video Walkthrough' />
 
-<img src='https://i.imgur.com/5XGQXUZ.mp4' alt='Overview' />
+<img src='https://i.imgur.com/5XGQXUZ.gif' alt='Overview' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
